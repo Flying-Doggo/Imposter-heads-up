@@ -1,0 +1,6 @@
+{
+  "buildCommand": "cd imposter-game && npm install && npm run build",
+  "outputDirectory": "imposter-game/dist",
+  "framework": "vite",
+  "installCommand": "npm install && cd imposter-game && npm install"
+}
